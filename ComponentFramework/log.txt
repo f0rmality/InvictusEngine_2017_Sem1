@@ -1,0 +1,2 @@
+INFO: Initializing the window and first scene ( d:\_projects_visual_studio_\year3_semester5\game engine design\invictus_2.0\componentframework\gamescenemanager.cpp: 120)
+INFO: 1.13.0 ( d:\_projects_visual_studio_\year3_semester5\game engine design\invictus_2.0\componentframework\window.cpp: 66)
